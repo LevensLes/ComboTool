@@ -1,0 +1,6 @@
+C:\Users\LevensLes\source\repos\Combo Tool\Combo Tool\bin\x64\Release\Combo Tool.exe.config
+C:\Users\LevensLes\source\repos\Combo Tool\Combo Tool\bin\x64\Release\Combo Tool.exe
+C:\Users\LevensLes\source\repos\Combo Tool\Combo Tool\bin\x64\Release\Combo Tool.pdb
+C:\Users\LevensLes\source\repos\Combo Tool\Combo Tool\obj\x64\Release\Combo Tool.csproj.CoreCompileInputs.cache
+C:\Users\LevensLes\source\repos\Combo Tool\Combo Tool\obj\x64\Release\Combo Tool.exe
+C:\Users\LevensLes\source\repos\Combo Tool\Combo Tool\obj\x64\Release\Combo Tool.pdb
