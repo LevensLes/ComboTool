@@ -1,2 +1,2 @@
 # ComboTool
-Tool that combines, filters and sorts your combolists 
+Made by LevensLes#4590 & vape#4930
